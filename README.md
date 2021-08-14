@@ -28,5 +28,5 @@ I'm just an electronics technician student at Buriram Technical College about pr
 </a>
 
 
-------
-Credits: [Pepyn0](https://github.com/Pepyn0)
+<!-- ------
+Credits: [Pepyn0](https://github.com/Pepyn0) -->
