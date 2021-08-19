@@ -31,32 +31,3 @@ I'm just an electronics technician student at Buriram Technical College about pr
 <!--
 Credits: [Pepyn0](https://github.com/Pepyn0) -->
 
----
-title: "Get Started"
-output: flexdashboard::flex_dashboard
----
-
-```{r setup, include=FALSE}
-library(flexdashboard)
-```
-
-Column 1
---------------------------------------------------
-
-### Chart A
-
-```{r}
-```
-
-Column 2
---------------------------------------------------
-
-### Chart B
-
-```{r}
-```
-
-### Chart C
-
-```{r}
-```
