@@ -27,6 +27,10 @@ I'm just an electronics technician student at Buriram Technical College about pr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiranuwat1147&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
+<div>
+<img src="https://avatars.githubusercontent.com/u/59886236?s=400&u=a9fa4f6ca6fb4d7203e91243ba3e37355e2fc334&v=4" width="50%"/>
+<img src="https://avatars.githubusercontent.com/u/59886236?s=400&u=a9fa4f6ca6fb4d7203e91243ba3e37355e2fc334&v=4" width="50%"/>
+</div>
 
-<!-- ------
+<!--
 Credits: [Pepyn0](https://github.com/Pepyn0) -->
